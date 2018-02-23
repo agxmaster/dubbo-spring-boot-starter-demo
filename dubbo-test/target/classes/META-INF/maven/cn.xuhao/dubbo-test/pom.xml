@@ -23,5 +23,10 @@
 			<artifactId>jsoup</artifactId>
 			<version>1.10.3</version>
 		</dependency>
+		<dependency>
+		    <groupId>com.taobao</groupId>
+		    <artifactId>stresstester</artifactId>
+		    <version>1.0</version>
+		</dependency>
 	</dependencies>
 </project>

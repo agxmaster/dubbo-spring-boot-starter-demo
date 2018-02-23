@@ -10,6 +10,7 @@
     <module>dubbo-api</module>
     <module>dubbo-provide</module>
     <module>dubbo-test</module>
+    <module>dubbo-service</module>
   </modules>
   
   <repositories>
