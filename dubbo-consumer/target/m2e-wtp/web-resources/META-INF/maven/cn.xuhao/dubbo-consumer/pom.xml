@@ -35,7 +35,6 @@
 			<scope>test</scope>
 		</dependency>
 
-
 		<!--服务接口 -->
 	    <dependency>
 	      <groupId>cn.xuhao</groupId>

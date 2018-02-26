@@ -12,12 +12,12 @@ import cn.xuhao.dubbo.api.TestService;
 public class DemoServerImp implements DemoService {
 
 
-	@Reference
+	@Reference(check=false)//启动消费者不检查服务者是否存在
     public TestService testService;
 	
     @Override
     public String sayHello(String s) {
-    	String test = "调用错误";
+    	String test = "调用失败";
 		try {
 			test = testService.testService(s);
 		} catch (Exception e) {

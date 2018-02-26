@@ -4,3 +4,4 @@ spring:
     registry: zookeeper://192.168.76.128:2181
     protocol: dubbo
     port: 20880
+    

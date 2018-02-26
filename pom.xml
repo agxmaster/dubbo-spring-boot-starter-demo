@@ -108,7 +108,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>dubboInterface</finalName>
+		<finalName>dubbo-parent</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
