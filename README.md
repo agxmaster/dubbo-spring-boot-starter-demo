@@ -13,8 +13,6 @@
 
 ### 1、创建maven parent工程统一管理项目所有的jar的版本，parent的父项目设置为spring boot
 
-![image.png](http://upload-images.jianshu.io/upload_images/8844416-f8f4e3382a6d8fb3.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 ![image.png](http://upload-images.jianshu.io/upload_images/8844416-c65e747dab4b1cac.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 勾选‘Create a simplate project’ ，创建简单项目
